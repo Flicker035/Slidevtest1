@@ -1,4 +1,5 @@
 ---
+base: /Slidevtest1/
 theme: seriph
 title: Python 虚拟环境与 MCP 配置技术演示
 background: https://source.unsplash.com/random/1920x1080?tech
